@@ -35,3 +35,5 @@ uvicorn
 langserve
 streamlit
 requests
+mysql-connector-python
+SQLAlchemy
