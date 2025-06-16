@@ -11,6 +11,7 @@
 [![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/SINGHxTUSHAR/AgenticChat-SQLDB)
 
 # AgenticChat-SQLDB 🤖
+![preview Image](https://github.com/SINGHxTUSHAR/AgenticChat-SQLDB/blob/33d79a6693f035c22217dc747d4028db20bb272d/preview.png)
 
 ### Project Overview:
 **AgenticChat-SQLDB** is an interactive Streamlit-based chat application that leverages LLMs (via LangChain) to enable natural language conversations with SQL databases. The app supports both a local SQLite database (`student.db`) and connections to custom MySQL databases, making it a flexible tool for querying, exploring, and interacting with your data through conversational AI.
